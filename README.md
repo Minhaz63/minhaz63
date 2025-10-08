@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaz63&label=Profile%20views&color=0e75b6&style=flat" alt="minhaz63" /> </p>
 
-- 🌱 I’m currently learning **Java script, React, tailwind, firebase, Nodejs**
+- 🌱 I’m currently learning **DeepLearning , LLMs, ComputerVisions**
 
 - 👨‍💻 All of my projects are available at [https://minhazulislam.github.io/](https://minhazulislam.github.io/)
 
