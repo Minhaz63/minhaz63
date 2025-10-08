@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DeepLearning , LLMs, ComputerVisions**
 
-- 👨‍💻 All of my projects are available at [https://minhazulislam.github.io/](https://minhazulislam.github.io/)
+- 👨‍💻 All of my projects are available at [https://minhazulislam.github.io/]()
 
 - 💬 Ask me about **problem solving**
 
